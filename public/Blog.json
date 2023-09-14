@@ -6,7 +6,7 @@
     "author_img": "https://i.ibb.co/XLw4mz6/profile.png",
     "author": "John Doe",
     "posted_date": "2023-09-12",
-    "reading_time": "60",
+    "reading_time": 60,
     "hashtags": ["fantasy", "adventure"]
   },
   {
@@ -16,7 +16,7 @@
     "author_img": "https://i.ibb.co/jyb0yLn/boy1.png",
     "author": "Jane Smith",
     "posted_date": "2023-09-11",
-    "reading_time": "75",
+    "reading_time": 75,
     "hashtags": ["mystery", "detective"]
   },
   {
@@ -26,7 +26,7 @@
     "author_img": "https://i.ibb.co/6YSkc4Z/boy2.jpg",
     "author": "Robert Johnson",
     "posted_date": "2023-09-10",
-    "reading_time": "45",
+    "reading_time": 45,
     "hashtags": ["science", "exploration"]
   },
   {
@@ -36,7 +36,7 @@
     "author_img": "https://i.ibb.co/XLcMVY3/girl1.jpg",
     "author": "Emily Wilson",
     "posted_date": "2023-09-09",
-    "reading_time": "90",
+    "reading_time": 90,
     "hashtags": ["cooking", "food"]
   }
 ]
